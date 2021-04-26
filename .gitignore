@@ -1,7 +1,9 @@
-node_modules/
 .DS_Store
 .cache/
 .vscode/
 .env
+.parcel-cache/
+.idea/
 dist/
 coverage/
+node_modules/
